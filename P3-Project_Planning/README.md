@@ -10,17 +10,17 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 - Login page:
-  ![Wireframes](./1-Lets Go Eat-Login.png)
+  ![Wireframes](1-login.png)
 - Sign up page:
-  ![Wireframes](./2-Lets Go Eat-Sign Up.png)
+  ![Wireframes](2-signup.png)
 - Form page (which is also the home page):
-  ![Wireframes](./3-Lets Go Eat-Form Page.png)
+  ![Wireframes](3-home.png)
 - Single result page:
-  ![Wireframes](./4-Lets Go Eat-Single Result.png)
+  ![Wireframes](4-single-result.png)
 - All results page:
-  ![Wireframes](./5-Lets Go Eat-Result List.png)
+  ![Wireframes](5-all-results.png)
 - User favorites:
-  ![Wireframes](./6-Lets Go Eat-Favorites.png)
+  ![Wireframes](6-favorites.png)
 
 ### Project Tracker
 
