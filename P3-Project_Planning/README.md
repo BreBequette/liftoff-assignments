@@ -10,17 +10,17 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 - Login page:
-  ![Sprint 1 Stories](/Users/breannabequette/Desktop/Liftoff/P3-Project_Planning/wireframes/1-Lets Go Eat-Login.png)
+  ![Wireframes](./1-Lets Go Eat-Login.png)
 - Sign up page:
-  ![Sprint 1 Stories](/Users/breannabequette/Desktop/Liftoff/P3-Project_Planning/wireframes/2-Lets Go Eat-Sign Up.png)
+  ![Wireframes](./2-Lets Go Eat-Sign Up.png)
 - Form page (which is also the home page):
-  ![Sprint 1 Stories](/Users/breannabequette/Desktop/Liftoff/P3-Project_Planning/wireframes/3-Lets Go Eat-Form Page.png)
+  ![Wireframes](./3-Lets Go Eat-Form Page.png)
 - Single result page:
-  ![Sprint 1 Stories](/Users/breannabequette/Desktop/Liftoff/P3-Project_Planning/wireframes/4-Lets Go Eat-Single Result.png)
+  ![Wireframes](./4-Lets Go Eat-Single Result.png)
 - All results page:
-  ![Sprint 1 Stories](/Users/breannabequette/Desktop/Liftoff/P3-Project_Planning/wireframes/5-Lets Go Eat-Result List.png)
+  ![Wireframes](./5-Lets Go Eat-Result List.png)
 - User favorites:
-  ![Sprint 1 Stories](/Users/breannabequette/Desktop/Liftoff/P3-Project_Planning/wireframes/6-Lets Go Eat-Favorites.png)
+  ![Wireframes](./6-Lets Go Eat-Favorites.png)
 
 ### Project Tracker
 
