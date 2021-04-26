@@ -7,4 +7,4 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-[LetsGoEat Project repository](https://github.com/BreBequette/letsgoeat)
+[LetsGoEat Project Repository](https://github.com/BreBequette/letsgoeat)
